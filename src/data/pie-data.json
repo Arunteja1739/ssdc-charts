@@ -1,0 +1,110 @@
+[
+    {
+      "id": "javascript",
+      "label": "javascript",
+      "value": 376,
+      "color": "hsl(326, 70%, 50%)"
+    },
+    {
+      "id": "java",
+      "label": "java",
+      "value": 248,
+      "color": "hsl(256, 70%, 50%)"
+    },
+    {
+      "id": "css",
+      "label": "css",
+      "value": 330,
+      "color": "hsl(251, 70%, 50%)"
+    },
+    {
+      "id": "hack",
+      "label": "hack",
+      "value": 214,
+      "color": "hsl(20, 70%, 50%)"
+    },
+    {
+      "id": "scala",
+      "label": "scala",
+      "value": 423,
+      "color": "hsl(306, 70%, 50%)"
+    },
+    {
+      "id": "lisp",
+      "label": "lisp",
+      "value": 72,
+      "color": "hsl(341, 70%, 50%)"
+    },
+    {
+      "id": "haskell",
+      "label": "haskell",
+      "value": 238,
+      "color": "hsl(322, 70%, 50%)"
+    },
+    {
+      "id": "rust",
+      "label": "rust",
+      "value": 508,
+      "color": "hsl(154, 70%, 50%)"
+    },
+    {
+      "id": "go",
+      "label": "go",
+      "value": 593,
+      "color": "hsl(113, 70%, 50%)"
+    },
+    {
+      "id": "stylus",
+      "label": "stylus",
+      "value": 257,
+      "color": "hsl(151, 70%, 50%)"
+    },
+    {
+      "id": "php",
+      "label": "php",
+      "value": 358,
+      "color": "hsl(111, 70%, 50%)"
+    },
+    {
+      "id": "elixir",
+      "label": "elixir",
+      "value": 302,
+      "color": "hsl(127, 70%, 50%)"
+    },
+    {
+      "id": "sass",
+      "label": "sass",
+      "value": 308,
+      "color": "hsl(289, 70%, 50%)"
+    },
+    {
+      "id": "ruby",
+      "label": "ruby",
+      "value": 397,
+      "color": "hsl(240, 70%, 50%)"
+    },
+    {
+      "id": "c",
+      "label": "c",
+      "value": 378,
+      "color": "hsl(43, 70%, 50%)"
+    },
+    {
+      "id": "python",
+      "label": "python",
+      "value": 271,
+      "color": "hsl(303, 70%, 50%)"
+    },
+    {
+      "id": "make",
+      "label": "make",
+      "value": 101,
+      "color": "hsl(310, 70%, 50%)"
+    },
+    {
+      "id": "erlang",
+      "label": "erlang",
+      "value": 270,
+      "color": "hsl(342, 70%, 50%)"
+    }
+  ]

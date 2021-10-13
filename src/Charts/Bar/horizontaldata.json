@@ -1,0 +1,27 @@
+[
+    {
+        "All User Profiles": 6537,
+        "label": "All User Profiles",
+        "id": "All Events - Unique (Email is set)"
+    },
+    {
+        "M5 (* current month)": 295,
+        "label": "M5 (* current month)",
+        "id": "All Events - Unique (Email is set)"
+    },
+    {
+        "M5 (2 months ago)": 232,
+        "label": "M5 (2 months ago)",
+        "id": "All Events - Unique (Email is set)"
+    },
+    {
+        "M5 (3 months ago)": 235,
+        "label": "M5 (3 months ago)",
+        "id": "All Events - Unique (Email is set)"
+    },
+    {
+        "M5 (4 months ago)": 222,
+        "label": "M5 (4 months ago)",
+        "id": "All Events - Unique (Email is set)"
+    }
+]

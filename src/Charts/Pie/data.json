@@ -1,0 +1,83 @@
+[
+    {
+        "id": "folderShare / email",
+        "Event": "User Registered - Total",
+        "source": "folderShare",
+        "type": "email",
+        "period": "Oct 3 2021, 12:00AM - Oct 8 2021, 1:15AM",
+        "value": 13,
+        "label": "folderShare / email"
+        },
+    {
+        "id": "manual / email",
+        "Event": "User Registered - Total",
+        "source": "manual",
+        "type": "email",
+        "period": "Oct 3 2021, 12:00AM - Oct 8 2021, 1:15AM",
+        "value": 5,
+        "label": "manual / email"
+        },
+    {
+        "id": "signup / email",
+        "Event": "User Registered - Total",
+        "source": "signup",
+        "type": "email",
+        "period": "Oct 3 2021, 12:00AM - Oct 8 2021, 1:15AM",
+        "value": 107,
+        "label": "signup / email"
+        },
+    {
+        "id": "signup / google",
+        "Event": "User Registered - Total",
+        "source": "signup",
+        "type": "google",
+        "period": "Oct 3 2021, 12:00AM - Oct 8 2021, 1:15AM",
+        "value": 248,
+        "label": "signup / google"
+        },
+    {
+        "id": "useTemplate / email",
+        "Event": "User Registered - Total",
+        "source": "useTemplate",
+        "type": "email",
+        "period": "Oct 3 2021, 12:00AM - Oct 8 2021, 1:15AM",
+        "value": 30,
+        "label": "useTemplate / email"
+        },
+    {
+        "id": "useTemplate / google",
+        "Event": "User Registered - Total",
+        "source": "useTemplate",
+        "type": "google",
+        "period": "Oct 3 2021, 12:00AM - Oct 8 2021, 1:15AM",
+        "value": 61,
+        "label": "useTemplate / google"
+        },
+    {
+        "id": "workbookLinkShare / email",
+        "Event": "User Registered - Total",
+        "source": "workbookLinkShare",
+        "type": "email",
+        "period": "Oct 3 2021, 12:00AM - Oct 8 2021, 1:15AM",
+        "value": 16,
+        "label": "workbookLinkShare / email"
+        },
+    {
+        "id": "workbookLinkShare / google",
+        "Event": "User Registered - Total",
+        "source": "workbookLinkShare",
+        "type": "google",
+        "period": "Oct 3 2021, 12:00AM - Oct 8 2021, 1:15AM",
+        "value": 25,
+        "label": "workbookLinkShare / google"
+        },
+    {
+        "id": "workbookShare / email",
+        "Event": "User Registered - Total",
+        "source": "workbookShare",
+        "type": "email",
+        "period": "Oct 3 2021, 12:00AM - Oct 8 2021, 1:15AM",
+        "value": 37,
+        "label": "workbookShare / email"
+        }
+]

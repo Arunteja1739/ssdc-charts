@@ -1,0 +1,591 @@
+[
+    {
+        "2021-09-08": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 1,
+            "manual / email": 0,
+            "manual / undefined": 88,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 0,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 7
+        }
+    },
+    {
+        "2021-09-09": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 2,
+            "manual / email": 0,
+            "manual / undefined": 38,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 0,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 7
+        }
+    },
+    {
+        "2021-09-10": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 1,
+            "manual / email": 0,
+            "manual / undefined": 18,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 0,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 1
+        }
+    },
+    {
+        "2021-09-11": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 0,
+            "manual / email": 0,
+            "manual / undefined": 16,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 0,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 3
+        }
+    },
+    {
+        "2021-09-12": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 1,
+            "manual / email": 0,
+            "manual / undefined": 21,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 0,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 5
+        }
+    },
+    {
+        "2021-09-13": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 1,
+            "manual / email": 0,
+            "manual / undefined": 13,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 0,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 7
+        }
+    },
+    {
+        "2021-09-14": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 3,
+            "manual / email": 0,
+            "manual / undefined": 19,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 0,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 3
+        }
+    },
+    {
+        "2021-09-15": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 0,
+            "manual / email": 0,
+            "manual / undefined": 12,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 0,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 0
+        }
+    },
+    {
+        "2021-09-16": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 2,
+            "manual / email": 0,
+            "manual / undefined": 22,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 0,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 1
+        }
+    },
+    {
+        "2021-09-17": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 2,
+            "manual / email": 0,
+            "manual / undefined": 14,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 0,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 4
+        }
+    },
+    {
+        "2021-09-18": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 1,
+            "manual / email": 0,
+            "manual / undefined": 6,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 0,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 3,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 4
+        }
+    },
+    {
+        "2021-09-19": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 0,
+            "manual / email": 0,
+            "manual / undefined": 8,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 0,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 2,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 5
+        }
+    },
+    {
+        "2021-09-20": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 0,
+            "manual / email": 0,
+            "manual / undefined": 5,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 0,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 3,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 10
+        }
+    },
+    {
+        "2021-09-21": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 0,
+            "manual / email": 0,
+            "manual / undefined": 6,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 0,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 3,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 4
+        }
+    },
+    {
+        "2021-09-22": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 1,
+            "manual / email": 0,
+            "manual / undefined": 8,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 0,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 10
+        }
+    },
+    {
+        "2021-09-23": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 1,
+            "manual / email": 0,
+            "manual / undefined": 6,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 3,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 1,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 17
+        }
+    },
+    {
+        "2021-09-24": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 1,
+            "manual / email": 0,
+            "manual / undefined": 3,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 0,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 2,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 0
+        }
+    },
+    {
+        "2021-09-25": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 0,
+            "manual / email": 0,
+            "manual / undefined": 4,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 15,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 8,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 2,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 3
+        }
+    },
+    {
+        "2021-09-26": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 2,
+            "manual / email": 0,
+            "manual / undefined": 1,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 17,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 18,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 1,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 4
+        }
+    },
+    {
+        "2021-09-27": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 3,
+            "manual / email": 0,
+            "manual / undefined": 4,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 20,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 22,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 1,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 4
+        }
+    },
+    {
+        "2021-09-28": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 1,
+            "manual / email": 0,
+            "manual / undefined": 0,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 20,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 23,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 8
+        }
+    },
+    {
+        "2021-09-29": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 0,
+            "manual / email": 0,
+            "manual / undefined": 1,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 13,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 18,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 2,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 10
+        }
+    },
+    {
+        "2021-09-30": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 0,
+            "manual / email": 0,
+            "manual / undefined": 1,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 11,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 32,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 2,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 10
+        }
+    },
+    {
+        "2021-10-01": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 1,
+            "manual / email": 0,
+            "manual / undefined": 1,
+            "signup / email": 0,
+            "signup / google": 0,
+            "signup / undefined": 14,
+            "useTemplate / email": 0,
+            "useTemplate / google": 0,
+            "useTemplate / undefined": 16,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 1,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 10
+        }
+    },
+    {
+        "2021-10-02": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 0,
+            "manual / email": 0,
+            "manual / undefined": 0,
+            "signup / email": 6,
+            "signup / google": 17,
+            "signup / undefined": 2,
+            "useTemplate / email": 4,
+            "useTemplate / google": 19,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 1,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 1
+        }
+    },
+    {
+        "2021-10-03": {
+            "folderShare / email": 1,
+            "folderShare / undefined": 0,
+            "manual / email": 0,
+            "manual / undefined": 0,
+            "signup / email": 15,
+            "signup / google": 30,
+            "signup / undefined": 0,
+            "useTemplate / email": 2,
+            "useTemplate / google": 7,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 0,
+            "workbookLinkShare / google": 0,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 0,
+            "workbookShare / undefined": 0
+        }
+    },
+    {
+        "2021-10-04": {
+            "folderShare / email": 1,
+            "folderShare / undefined": 0,
+            "manual / email": 1,
+            "manual / undefined": 0,
+            "signup / email": 19,
+            "signup / google": 47,
+            "signup / undefined": 0,
+            "useTemplate / email": 5,
+            "useTemplate / google": 19,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 2,
+            "workbookLinkShare / google": 10,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 12,
+            "workbookShare / undefined": 0
+        }
+    },
+    {
+        "2021-10-05": {
+            "folderShare / email": 2,
+            "folderShare / undefined": 0,
+            "manual / email": 0,
+            "manual / undefined": 0,
+            "signup / email": 11,
+            "signup / google": 28,
+            "signup / undefined": 0,
+            "useTemplate / email": 10,
+            "useTemplate / google": 6,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 3,
+            "workbookLinkShare / google": 7,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 14,
+            "workbookShare / undefined": 0
+        }
+    },
+    {
+        "2021-10-06": {
+            "folderShare / email": 6,
+            "folderShare / undefined": 0,
+            "manual / email": 2,
+            "manual / undefined": 0,
+            "signup / email": 32,
+            "signup / google": 98,
+            "signup / undefined": 0,
+            "useTemplate / email": 5,
+            "useTemplate / google": 16,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 8,
+            "workbookLinkShare / google": 2,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 9,
+            "workbookShare / undefined": 0
+        }
+    },
+    {
+        "2021-10-07": {
+            "folderShare / email": 3,
+            "folderShare / undefined": 0,
+            "manual / email": 2,
+            "manual / undefined": 0,
+            "signup / email": 29,
+            "signup / google": 40,
+            "signup / undefined": 0,
+            "useTemplate / email": 8,
+            "useTemplate / google": 12,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 3,
+            "workbookLinkShare / google": 6,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 2,
+            "workbookShare / undefined": 0
+        }
+    },
+    {
+        "2021-10-08": {
+            "folderShare / email": 0,
+            "folderShare / undefined": 0,
+            "manual / email": 0,
+            "manual / undefined": 0,
+            "signup / email": 2,
+            "signup / google": 8,
+            "signup / undefined": 0,
+            "useTemplate / email": 1,
+            "useTemplate / google": 1,
+            "useTemplate / undefined": 0,
+            "workbookLinkShare / email": 1,
+            "workbookLinkShare / google": 1,
+            "workbookLinkShare / undefined": 0,
+            "workbookShare / email": 2,
+            "workbookShare / undefined": 0
+        }
+    }
+]
