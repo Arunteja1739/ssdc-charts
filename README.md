@@ -7,11 +7,14 @@
   <a href="https://twitter.com/ARUNTEJ80152619" target="_blank">
     <img alt="Twitter: ARUNTEJ80152619" src="https://img.shields.io/twitter/follow/ARUNTEJ80152619.svg?style=social" />
   </a>
+  <a href="https://twitter.com/RAVIKANTHLALAN" target="_blank">
+    <img alt="Twitter: RAVIKANTHLALAN" src="https://img.shields.io/twitter/follow/RAVIKANTHLALAN.svg?style=social" />
+  </a>
 </p>
 
 > Charts Dashboard using different libraries to compare performance, look and feel etc
 
-### 🏠 [Homepage](/)
+### 🏠 [Homepage](https://ssdc-charts.herokuapp.com/)
 
 ### ✨ [Demo](https://ssdc-charts.herokuapp.com/)
 
@@ -35,12 +38,16 @@ yarn test
 
 ## Author
 
-👤 **Arun,Ravi**
+👤 **Arun**
 
 * Twitter: [@ARUNTEJ80152619](https://twitter.com/ARUNTEJ80152619)
 * Github: [@arunteja1739@gmail.com](https://github.com/arunteja1739@gmail.com)
 * LinkedIn: [@arunteja1739@gmail.com](https://linkedin.com/in/arunteja1739@gmail.com)
 
+👤 **Ravi**
+* Twitter: [@RAVI](https://twitter.com/RAVI)
+* Github: [@ravikanth.lalan@gmail.com](https://github.com/ravikanth.lalan@gmail.com)
+* LinkedIn: [@ravikanth.lalan@gmail.com](https://linkedin.com/in/ravikanth.lalan@gmail.com)
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Arunteja1739/ssdc-charts/issues). You can also take a look at the [contributing guide](https://github.com/Arunteja1739/ssdc-charts).
