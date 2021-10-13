@@ -1,0 +1,18 @@
+.header{
+    height:100px;
+    width:100%;
+    background-color:#fff;
+
+    .page:hover{
+        font-weight: 600;
+    }
+
+    .page::before{
+        display: block;
+        content: attr(title);
+        font-weight: bold;
+        height: 0;
+        overflow: hidden;
+        visibility: hidden;
+    }
+}

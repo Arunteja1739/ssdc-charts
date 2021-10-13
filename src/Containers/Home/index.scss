@@ -1,21 +1,8 @@
-.max-width-container {
-    margin: 0 auto;
-    max-width: 1200px;
-}
-
-@media only screen and (max-width: 1280px) {
-    .max-width-container {
-        margin: 0 auto;
-        padding: 0 40px;
-        max-width: 100%;
-    }
-}
-
 .ssdc-chart-cards {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .ssdc-chart-card {

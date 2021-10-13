@@ -1,5 +1,6 @@
 import Home from '../Containers/Home';
 import NivoCharts from '../Containers/Nivo';
+import Recharts from '../Containers/Recharts';
 
 const routes = [
     {
@@ -10,6 +11,11 @@ const routes = [
     {
         component: NivoCharts,
         path:"/nivo",
+        exact:true
+    },
+    {
+        component: Recharts,
+        path:"/recharts",
         exact:true
     }
 ]
