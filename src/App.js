@@ -1,8 +1,9 @@
 import React from 'react';
-import Charts from './Charts';
-import GridLayout from './Components/GridLayout';
-import layout from './layoutConfig';
-import './App.css';
+import {
+  Switch,
+  Route,
+} from "react-router-dom";
+import routes from './router';
 import './index.scss';
 import "react-grid-layout/css/styles.css";
 import "react-resizable/css/styles.css";
@@ -10,14 +11,18 @@ import "react-resizable/css/styles.css";
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { layout };
+    this.state = { };
   }
   render() {
-    const {layout} = this.state;
     return (
       <div className="App">
-         <GridLayout items={Charts} layouts={layout} />
-      </div>                    
+        <Switch>
+          {
+            routes.map((route, id) => <Route key={id} path={route.path} exact={route.exact} component={route.component} />)
+          }
+        </Switch>
+
+      </div>
     );
   }
 }

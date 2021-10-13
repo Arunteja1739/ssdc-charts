@@ -1,0 +1,463 @@
+[
+    {
+        "id": "All Events - MAU (Email is set)",
+        "color": "#4f44e0",
+        "data": [
+            {
+                "x": "2021-07-12",
+                "y": 807,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-13",
+                "y": 810,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-14",
+                "y": 791,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-15",
+                "y": 783,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-16",
+                "y": 774,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-17",
+                "y": 752,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-18",
+                "y": 737,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-19",
+                "y": 745,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-20",
+                "y": 767,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-21",
+                "y": 958,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-22",
+                "y": 1119,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-23",
+                "y": 1150,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-24",
+                "y": 1167,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-25",
+                "y": 1161,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-26",
+                "y": 1226,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-27",
+                "y": 1250,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-28",
+                "y": 1272,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-29",
+                "y": 1261,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-30",
+                "y": 1263,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-07-31",
+                "y": 1248,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-01",
+                "y": 1254,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-02",
+                "y": 1287,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-03",
+                "y": 1311,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-04",
+                "y": 1346,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-05",
+                "y": 1364,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-06",
+                "y": 1361,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-07",
+                "y": 1343,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-08",
+                "y": 1334,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-09",
+                "y": 1387,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-10",
+                "y": 1423,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-11",
+                "y": 1429,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-12",
+                "y": 1433,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-13",
+                "y": 1444,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-14",
+                "y": 1433,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-15",
+                "y": 1438,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-16",
+                "y": 1448,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-17",
+                "y": 1460,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-18",
+                "y": 1458,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-19",
+                "y": 1451,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-20",
+                "y": 1332,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-21",
+                "y": 1200,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-22",
+                "y": 1144,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-23",
+                "y": 1138,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-24",
+                "y": 1124,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-25",
+                "y": 1138,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-26",
+                "y": 1115,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-27",
+                "y": 1093,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-28",
+                "y": 1071,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-29",
+                "y": 1059,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-30",
+                "y": 1068,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-08-31",
+                "y": 1075,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-01",
+                "y": 1086,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-02",
+                "y": 1070,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-03",
+                "y": 1044,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-04",
+                "y": 1014,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-05",
+                "y": 991,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-06",
+                "y": 980,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-07",
+                "y": 1223,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-08",
+                "y": 1248,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-09",
+                "y": 1261,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-10",
+                "y": 1252,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-11",
+                "y": 1258,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-12",
+                "y": 1256,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-13",
+                "y": 1288,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-14",
+                "y": 1302,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-15",
+                "y": 1296,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-16",
+                "y": 1298,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-17",
+                "y": 1304,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-18",
+                "y": 1320,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-19",
+                "y": 1327,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-20",
+                "y": 1375,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-21",
+                "y": 1405,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-22",
+                "y": 1421,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-23",
+                "y": 1459,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-24",
+                "y": 1420,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-25",
+                "y": 1433,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-26",
+                "y": 1483,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-27",
+                "y": 1554,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-28",
+                "y": 1631,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-29",
+                "y": 1686,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-09-30",
+                "y": 1753,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-10-01",
+                "y": 1797,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-10-02",
+                "y": 1819,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-10-03",
+                "y": 1863,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-10-04",
+                "y": 1966,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-10-05",
+                "y": 2045,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-10-06",
+                "y": 2251,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-10-07",
+                "y": 2258,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-10-08",
+                "y": 2240,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-10-09",
+                "y": 2243,
+                "id": "All Events - MAU (Email is set)"
+            },
+            {
+                "x": "2021-10-10",
+                "y": 2252,
+                "id": "All Events - MAU (Email is set)"
+            }
+        ]
+    }
+]
