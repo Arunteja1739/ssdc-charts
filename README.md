@@ -7,8 +7,8 @@
   <a href="https://twitter.com/ARUNTEJ80152619" target="_blank">
     <img alt="Twitter: ARUNTEJ80152619" src="https://img.shields.io/twitter/follow/ARUNTEJ80152619.svg?style=social" />
   </a>
-  <a href="https://twitter.com/RAVIKANTHLALAN" target="_blank">
-    <img alt="Twitter: RAVIKANTHLALAN" src="https://img.shields.io/twitter/follow/RAVIKANTHLALAN.svg?style=social" />
+  <a href="https://twitter.com/ravikanth_lalan" target="_blank">
+    <img alt="Twitter: ravikanth_lalan" src="https://img.shields.io/twitter/follow/ravikanth_lalan.svg?style=social" />
   </a>
 </p>
 
@@ -45,7 +45,7 @@ yarn test
 * LinkedIn: [@arunteja1739@gmail.com](https://linkedin.com/in/arunteja1739@gmail.com)
 
 👤 **Ravi**
-* Twitter: [@RAVI](https://twitter.com/RAVI)
+* Twitter: [@ravikanth_lalan](https://twitter.com/ravikanth_lalan)
 * Github: [@ravikanth.lalan@gmail.com](https://github.com/ravikanth.lalan@gmail.com)
 * LinkedIn: [@ravikanth.lalan@gmail.com](https://linkedin.com/in/ravikanth.lalan@gmail.com)
 ## 🤝 Contributing
