@@ -10,7 +10,6 @@ class Nivo extends React.Component {
       this.state = { layout };
     }
     componentDidMount(){
-      console.log("nivo mounted")
     }
     render() {
       const {layout} = this.state;

@@ -1,7 +1,7 @@
 [
     {
       "id": "japan",
-      "color": "#e8c1a0",
+      "color": "hsl(240, 70%, 50%)",
       "data": [
         {
           "x": "plane",
@@ -55,7 +55,7 @@
     },
     {
       "id": "france",
-      "color": "#f47560",
+      "color": "hsl(330, 70%, 50%)",
       "data": [
         {
           "x": "plane",
@@ -109,7 +109,7 @@
     },
     {
       "id": "us",
-      "color": "#f1e15b",
+      "color": "hsl(221, 70%, 50%)",
       "data": [
         {
           "x": "plane",
@@ -163,7 +163,7 @@
     },
     {
       "id": "germany",
-      "color": "#e8a738",
+      "color": "hsl(187, 70%, 50%)",
       "data": [
         {
           "x": "plane",
@@ -217,7 +217,7 @@
     },
     {
       "id": "norway",
-      "color": "#61cdbb",
+      "color": "hsl(74, 70%, 50%)",
       "data": [
         {
           "x": "plane",
