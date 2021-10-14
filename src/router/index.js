@@ -1,6 +1,7 @@
 import Home from '../Containers/Home';
 import NivoCharts from '../Containers/Nivo';
 import Recharts from '../Containers/Recharts';
+import VictoryCharts from '../Containers/Victory';
 
 const routes = [
     {
@@ -17,7 +18,12 @@ const routes = [
         component: Recharts,
         path:"/recharts",
         exact:true
-    }
+    },
+    {
+        component: VictoryCharts,
+        path:"/victory",
+        exact:true
+    },
 ]
 
 export default routes;

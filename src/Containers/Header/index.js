@@ -17,14 +17,14 @@ const pages = [
     },
     {
         _id: 3,
-        name: 'Victory',
-        link: '/victory',
+        name: 'Recharts',
+        link: '/recharts',
     },
     {
         _id: 4,
-        name: 'Recharts',
-        link: '/recharts',
-    }
+        name: 'Victory',
+        link: '/victory',
+    },
 ];
 
 export default class Header extends React.PureComponent {

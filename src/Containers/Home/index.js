@@ -18,21 +18,21 @@ const charts = [
     },
     {
         id: 2,
-        name: "Victory Charts",
-        path: "/victory",
-        logo: VictoryLogo,
-        height: "75px",
-        width: "75px"
-    },
-    {
-        id: 3,
         name: "Recharts",
         path: "/recharts",
         logo: RechartsLogo,
         height: "75px",
         width: "230px",
         excludeTitle: true,
-    }
+    },
+    {
+        id: 3,
+        name: "Victory Charts",
+        path: "/victory",
+        logo: VictoryLogo,
+        height: "75px",
+        width: "75px"
+    },
 ]
 
 class Home extends React.Component {
