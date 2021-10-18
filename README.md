@@ -45,9 +45,11 @@ yarn test
 * LinkedIn: [@arunteja1739@gmail.com](https://linkedin.com/in/arunteja1739@gmail.com)
 
 👤 **Ravi**
-* Twitter: [@ravikanth_lalan](https://twitter.com/ravikanth_lalan)
-* Github: [@ravikanth.lalan@gmail.com](https://github.com/ravikanth.lalan@gmail.com)
-* LinkedIn: [@ravikanth.lalan@gmail.com](https://linkedin.com/in/ravikanth.lalan@gmail.com)
+
+* Twitter: [@ravikanth\_lalan](https://twitter.com/ravikanth\_lalan)
+* Github: [@ravikanth-lalan](https://github.com/ravikanth-lalan)
+* LinkedIn: [@ravikanth-lalan](https://linkedin.com/in/ravikanth-lalan)
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Arunteja1739/ssdc-charts/issues). You can also take a look at the [contributing guide](https://github.com/Arunteja1739/ssdc-charts).
