@@ -6,6 +6,15 @@ import {
   VictoryContainer as VictoryVoronoiContainer,
 } from "victory";
 
+const colorScale = [
+  "#97e3d5",
+  "#61cdbb",
+  "#e8a838",
+  "#f1e15b",
+  "#f47560",
+  "#e8c1a0",
+];
+
 const VictoryNativePie = (props) => {
   const {
     data = [],
@@ -29,7 +38,8 @@ const VictoryNativePie = (props) => {
       containerComponent={
         <VictoryVoronoiContainer fixLabelOverlap={true} responsive={true} />
       }
-      colorScale={data.map((datum) => datum.color)}
+      colorScale={colorScale}
+      // colorScale={data.map((datum) => datum.color)}
       cornerRadius={4}
       data={data}
       fixLabelOverlap={true}
