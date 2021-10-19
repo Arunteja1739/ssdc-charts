@@ -4,11 +4,10 @@ import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Responsi
 
 
 export default class LineChartComponent extends PureComponent {
-    componentDidMount() {
-        console.log({options:this.props.options})
-    }
+  componentDidMount() {
+  }
   render() {
-    const {options,data} = this.props;
+    const { options, data } = this.props;
     return (
       <ResponsiveContainer width="100%" height="100%">
         <LineChart
@@ -22,14 +21,14 @@ export default class LineChartComponent extends PureComponent {
           }}
         >
           <CartesianGrid strokeDasharray="3 3" />
-          <XAxis {...(options?.xAxisOptions||{})} />
-          <YAxis  {...(options?.yAxisOptions||{})} />
+          <XAxis {...(options?.xAxisOptions || {})} />
+          <YAxis  {...(options?.yAxisOptions || {})} />
           <Tooltip />
           <Legend />
           {
-              data?.map((line,id)=>(
-                <Line key={id} type="monotone" data={line.data} dataKey={"y"} name={line.id} stroke={line.color} strokeWidth={2} activeDot={{ r: 8 }} />
-              ))
+            data?.map((line, id) => (
+              <Line key={id} type="monotone" data={line.data} dataKey={"y"} name={line.id} stroke={line.color} strokeWidth={2} activeDot={{ r: 8 }} />
+            ))
           }
         </LineChart>
       </ResponsiveContainer>

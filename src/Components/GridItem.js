@@ -17,7 +17,7 @@ const GridItem = ({
     const width = parseInt(style.width, 10);
     const height = parseInt(style.height, 10) - 100;
     return (
-        <div className={`grid-item fadeup-animation ${className}`} style={style} {...rest}>
+        <div className={`grid-item ${className}`} style={style} {...rest}>
             <div className="grid-item-header">
                 <div className="drag-handle">
                     <BsGripHorizontal  size="40px" />

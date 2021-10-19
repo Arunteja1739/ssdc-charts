@@ -68,7 +68,7 @@ const Charts = [
         type: 'stackedline',
         options: { 
             xAxisOptions:{type:"category",dataKey:"x",allowDuplicatedCategory:false}, 
-            yAxisOptions:{dataKey:"y"},
+            yAxisOptions:{dataKey:"y",type:'number'},
         }
     },
     {
@@ -131,6 +131,8 @@ const Charts = [
         options: { 
             nableGridX: false, 
             enableGridY: false, 
+            width:300,
+            height:500,
             layout: 'vertical',
             xAxisOptions:{type:"number",hide:true},
             yAxisOptions:{type:"category",dataKey:"country"},

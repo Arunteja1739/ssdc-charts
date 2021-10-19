@@ -19,7 +19,7 @@ export default class Example extends PureComponent {
             bottom: 0,
           }}
         >
-          <CartesianGrid strokeDasharray="3 3" />
+          {/* <CartesianGrid strokeDasharray="3 3" /> */}
           <XAxis {...(options?.xAxisOptions||{})} />
           <YAxis  {...(options?.yAxisOptions||{})} />
           <Tooltip />
