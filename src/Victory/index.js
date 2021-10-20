@@ -3,11 +3,13 @@ import LineChartData from "../data/StackedLineData.json";
 import SingleLineData from "../data/SingleLineData.json";
 import PieChartData from "../data/PieData.json";
 import StackedAreaChartData from "../data/StackedAreaData.json";
+import ScatterPlotData from "../data/ScatterPlotData.json";
 import DonutChart from "./Donut";
 import PieChart from "./PieChart";
 import StackedBarChart from "./StackedBar";
 import LineChart from "./LineChart";
 import StackedAreaChart from "./StackedArea";
+import VictoryNativeScatterChart from "./ScatterPlot";
 
 const Charts = [
   {
@@ -146,6 +148,12 @@ const Charts = [
         },
       ],
     },
+  },
+  {
+    component: VictoryNativeScatterChart,
+    data: ScatterPlotData,
+    type: "scatterPlot",
+    options: {},
   },
 ];
 
