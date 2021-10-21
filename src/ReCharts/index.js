@@ -8,15 +8,17 @@ import PieChart from './PieChart';
 import StackedBarChart from './StackedBar';
 import LineChart from './LineChart';
 import StackedAreaChart from './StackedArea';
+import ScatterPlotData from '../data/ScatterPlotData.json';
+import ScatterPlot from './Scatterplot';
 
 const Charts = [
     {
         component: LineChart,
         data: SingleLineData,
         type: 'line',
-        options: { 
-            xAxisOptions:{type:"category",dataKey:"x"}, 
-            yAxisOptions:{type:"number",dataKey:"y"},
+        options: {
+            xAxisOptions: { type: "category", dataKey: "x" },
+            yAxisOptions: { type: "number", dataKey: "y" },
         }
     },
     {
@@ -26,38 +28,38 @@ const Charts = [
         options: {
             enableGridX: false,
             enableGridY: false,
-            xAxisOptions:{dataKey:"country"},
-            yAxisOptions:{},
+            xAxisOptions: { dataKey: "country" },
+            yAxisOptions: {},
             keys: [
                 {
                     "dataKey": "hot dog",
                     "stackId": "a",
-                    "fill":"#97e3d5"
+                    "fill": "#97e3d5"
                 },
                 {
                     "dataKey": "burger",
                     "stackId": "a",
-                    "fill":"#61cdbb"
+                    "fill": "#61cdbb"
                 },
                 {
                     "dataKey": "sandwich",
                     "stackId": "a",
-                    "fill":"#e8a838"
+                    "fill": "#e8a838"
                 },
                 {
                     "dataKey": "kebab",
                     "stackId": "a",
-                    "fill":"#f1e15b"
+                    "fill": "#f1e15b"
                 },
                 {
                     "dataKey": "fries",
                     "stackId": "a",
-                    "fill":"#f47560"
+                    "fill": "#f47560"
                 },
                 {
                     "dataKey": "donut",
                     "stackId": "a",
-                    "fill":"#e8c1a0"
+                    "fill": "#e8c1a0"
                 }
             ]
         }
@@ -66,16 +68,16 @@ const Charts = [
         component: LineChart,
         data: LineChartData,
         type: 'stackedline',
-        options: { 
-            xAxisOptions:{type:"category",dataKey:"x",allowDuplicatedCategory:false}, 
-            yAxisOptions:{dataKey:"y",type:'number'},
+        options: {
+            xAxisOptions: { type: "category", dataKey: "x", allowDuplicatedCategory: false },
+            yAxisOptions: { dataKey: "y", type: 'number' },
         }
     },
     {
         component: DonutChart,
         data: PieChartData,
         type: 'donut',
-        options: { xAxisOptions:{dataKey:'x', type:'category'}, yAxisOptions:{dataKey:'y', type:'number'}}
+        options: { xAxisOptions: { dataKey: 'x', type: 'category' }, yAxisOptions: { dataKey: 'y', type: 'number' } }
     },
     {
         component: PieChart,
@@ -87,9 +89,9 @@ const Charts = [
         component: StackedAreaChart,
         data: StackedAreaChartData,
         type: 'stackedArea',
-        options: { 
-            xAxisOptions:{}, 
-            yAxisOptions:{},
+        options: {
+            xAxisOptions: {},
+            yAxisOptions: {},
             keys: [
                 {
                     "dataKey": "Raoul",
@@ -128,48 +130,54 @@ const Charts = [
         component: StackedBarChart,
         data: BarData,
         type: 'horizontalbar',
-        options: { 
-            nableGridX: false, 
-            enableGridY: false, 
-            width:300,
-            height:500,
+        options: {
+            nableGridX: false,
+            enableGridY: false,
+            width: 300,
+            height: 500,
             layout: 'vertical',
-            xAxisOptions:{type:"number",hide:true},
-            yAxisOptions:{type:"category",dataKey:"country"},
+            xAxisOptions: { type: "number", hide: true },
+            yAxisOptions: { type: "category", dataKey: "country" },
             keys: [
                 {
                     "dataKey": "hot dog",
                     "stackId": "a",
-                    "fill":"#97e3d5"
+                    "fill": "#97e3d5"
                 },
                 {
                     "dataKey": "burger",
                     "stackId": "a",
-                    "fill":"#61cdbb"
+                    "fill": "#61cdbb"
                 },
                 {
                     "dataKey": "sandwich",
                     "stackId": "a",
-                    "fill":"#e8a838"
+                    "fill": "#e8a838"
                 },
                 {
                     "dataKey": "kebab",
                     "stackId": "a",
-                    "fill":"#f1e15b"
+                    "fill": "#f1e15b"
                 },
                 {
                     "dataKey": "fries",
                     "stackId": "a",
-                    "fill":"#f47560"
+                    "fill": "#f47560"
                 },
                 {
                     "dataKey": "donut",
                     "stackId": "a",
-                    "fill":"#e8c1a0"
+                    "fill": "#e8c1a0"
                 }
             ]
-         }
+        }
     },
+    {
+        component: ScatterPlot,
+        data: ScatterPlotData,
+        type: 'scatterPlot',
+        options: { xAxisOptions: { dataKey: 'x', type: 'number' }, yAxisOptions: { dataKey: 'y', type: 'number' } },
+    }
 ];
 
 export default Charts;
