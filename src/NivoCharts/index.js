@@ -4,9 +4,11 @@ import LineChart from './Line';
 import LineChartData from '../data/StackedLineData.json';
 import SingleLineData from './Line/SingleLineData.json';
 import PieChart from './Pie';
+import ScatterPlot from './Scatterplot';
 import PieChartData from '../data/PieData.json';
 import StackedAreaChart from './StackedArea';
 import StackedAreaChartData from '../data/StackedAreaData.json'
+import ScatterPlotData from '../data/ScatterPlotData.json';
 
 const Charts = [
     {
@@ -49,6 +51,12 @@ const Charts = [
         data: BarData,
         type: 'horizontalbar',
         options: { enableGridX: false, enableGridY: false, layout: 'horizontal', }
+    },
+    {
+        component: ScatterPlot,
+        data: ScatterPlotData,
+        type: 'scatterPlot',
+        options: {  }
     },
 ];
 

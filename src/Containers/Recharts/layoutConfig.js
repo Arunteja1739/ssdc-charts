@@ -62,7 +62,16 @@ const config = {
             "i": "horizontalbar",
             "moved": false,
             "static": false
-        }
+        },
+        {
+            "w": 8,
+            "h": 3,
+            "x": 0,
+            "y": 6,
+            "i": "scatterPlot",
+            "moved": false,
+            "static": false,
+        },
     ],
     "md": [
         {
@@ -127,7 +136,16 @@ const config = {
             "i": "horizontalbar",
             "moved": false,
             "static": false
-        }
+        },
+        {
+            "w": 10,
+            "h": 3,
+            "x": 0,
+            "y": 10,
+            "i": "scatterPlot",
+            "moved": false,
+            "static": false,
+        },
     ],
     "sm": [
         {
@@ -192,7 +210,16 @@ const config = {
             "i": "horizontalbar",
             "moved": false,
             "static": false
-        }
+        },
+        {
+            "w": 8,
+            "h": 3,
+            "x": 0,
+            "y": 15,
+            "i": "scatterPlot",
+            "moved": false,
+            "static": false,
+        },
     ],
     "xs": [
         {
@@ -257,9 +284,18 @@ const config = {
             "i": "horizontalbar",
             "moved": false,
             "static": false
-        }
+        },
+        {
+            "w": 4,
+            "h": 4,
+            "x": 0,
+            "y": 20,
+            "i": "scatterPlot",
+            "moved": false,
+            "static": false,
+        },
     ],
-    "xxs":[
+    "xxs": [
         {
             "w": 2,
             "h": 2,
@@ -322,7 +358,16 @@ const config = {
             "i": "horizontalbar",
             "moved": false,
             "static": false
-        }
+        },
+        {
+            "w": 2,
+            "h": 2,
+            "x": 0,
+            "y": 14,
+            "i": "scatterPlot",
+            "moved": false,
+            "static": false,
+        },
     ]
 }
 
