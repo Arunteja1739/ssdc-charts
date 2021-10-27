@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import NivoLogo from '../../assets/logos/nivologo.png';
 import RechartsLogo from '../../assets/logos/recharts.png';
 import VictoryLogo from '../../assets/logos/victory.svg';
+import Map from '../../assets/logos/map.jpg';
 import Header from '../Header';
 import './index.scss';
 
@@ -32,6 +33,14 @@ const charts = [
         logo: VictoryLogo,
         height: "75px",
         width: "75px"
+    },
+    {
+        id: 4,
+        name: "Maps",
+        path: "/maps",
+        logo: Map,
+        height: "80px",
+        width: "100px"
     },
 ]
 

@@ -7,6 +7,7 @@ import routes from './router';
 import './index.scss';
 import "react-grid-layout/css/styles.css";
 import "react-resizable/css/styles.css";
+import '@fortawesome/fontawesome-free/css/all.min.css';
 
 class App extends React.Component {
   constructor(props) {

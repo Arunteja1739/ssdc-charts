@@ -2,6 +2,7 @@ import Home from '../Containers/Home';
 import NivoCharts from '../Containers/Nivo';
 import Recharts from '../Containers/Recharts';
 import VictoryCharts from '../Containers/Victory';
+import Maps from '../Containers/Maps';
 
 const routes = [
     {
@@ -22,6 +23,11 @@ const routes = [
     {
         component: VictoryCharts,
         path:"/victory",
+        exact:true
+    },
+    {
+        component: Maps,
+        path:"/maps",
         exact:true
     },
 ]
